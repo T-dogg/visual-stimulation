@@ -1,0 +1,1 @@
+Script presenting visual stimulation during recording
